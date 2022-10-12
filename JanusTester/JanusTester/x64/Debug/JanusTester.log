@@ -1,0 +1,31 @@
+﻿  
+  
+  [+] PEM_read_bio_RSA_PUBKEY was successful (public key)
+  [+] Obfuscating contents of E:\VS\VS Repos\JanusTester\
+  [+] Processing File: E:\VS\VS Repos\JanusTester\JanusTester\Program.cpp
+  [+] Scrambling Line 6
+  [+] Original: Drake
+  [+] Length: 5
+  [+] Base64: m9gfcObcDFsMn99jWmfXgn9reKkP0hTPCfuDw97QKCM1TOPjNlG6U3xk7y+dTVvW4tw0Wo0C7/qdc8Evuf7hO9TkxDuQABt6WX1p3PCeinC9geApt2++e2cBOlG1xA21st+0TaenpCYif4uEIOZtkChSqKog1qpBV3xA8qiun5Tv/3ygMe/yzs0aMPGkrcA9j7/UhqhbqBCH9JH0grlJ9mF445+XauKA7NNppaR5hP4Sel/lPXMcXBxhCUEIbZOqkhCphSGexK33+hAX6R5RlK82bulWVE3r3p79KPf6hQqggeGK6bOeEOx6V3SIllp707UfSLK8pP5CF8UlVlwCrw==
+  [+] Scrambling Line 5
+  [+] Original: The Remorse
+  [+] Length: 11
+  [+] Base64: xUSL4VPPSQiH853zc0BxrBOTLk4+HNUAESCEfpeaHnJHC/O9DmUfnfW4TdeNTVjAMfkBm/XQ+7D4NBHp8SNSh+MgJHewg2MvsTrfaJ7+J1zT1zqPDZ6uPdVCvqscio5JtK6WMUFQV/qilq4f8ynDJX3Iu4tJ1Hhjx68Fn044qJEcDyacP089JRSiyokypx2FoagVIRlkXc9/3Y+HyLJVen5tfqyulbFNf3qfDTycP+vQr9u/s0MwjBdhKcap0MO0iQK3nSw2WvFKl8sbstCqK2wCjEnBEFJdDvIW+1lsm89Q4t/6dmZNpWrtzom37jzB2ZyW9AHklYpl2DSVC3rqiw==
+  [+] Successfully modified
+  [+] Processing File: E:\VS\VS Repos\JanusTester\JanusTester\Test.cpp
+  [+] Scrambling Line 9
+  [+] Original: This is a test for another file
+  [+] Length: 31
+  [+] Base64: BMQY3ESiVvEX5TsftFivWiLTfDCN9Cjexed6TL3AzKazdXk9211H0UsSvq7SRXMbjmgptg8o7pcejyvKxiNnehVaks9XTMn6NMyhSXcWtaj1aeHQeGGO9C0ciyYbBuDI8eOy+TWwcQ0HxsYpFpgYtCeJRQkjY5E9A8eHk89EI3rqFgGPcvWOcfrTDRHLe2n0zvaikc1OdtjWT4f2wdymRqn8+Llvc9L7fKLTYgjUC8CSh/ZAYGY/IchuTCfACxLDn7hbrBfxVCR83IzU/ZXN/ClPLnd1S0hPkyu676Ak0xaaokodaSXS36IB7HDoYcOsU1tdHFbblRe7sismZHSNPg==
+  [+] Successfully modified
+  
+  
+  Program.cpp
+  Test.cpp
+  Generating Code...
+  JanusTester.vcxproj -> E:\VS\VS Repos\JanusTester\x64\Debug\JanusTester.exe
+  [+] Attempting to restore files in E:\VS\VS Repos\JanusTester\
+  [+] Restoring File: E:\VS\VS Repos\JanusTester\JanusTester\Program.cp
+  [+] Successful restoration
+  [+] Restoring File: E:\VS\VS Repos\JanusTester\JanusTester\Test.cp
+  [+] Successful restoration

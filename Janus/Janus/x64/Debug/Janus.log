@@ -1,0 +1,6 @@
+﻿  Janus.cpp
+E:\VS\VS Repos\Janus\Janus\Janus.cpp(14,2): warning C4091: 'static ': ignored on left of 'StringType' when no variable is declared
+E:\VS\VS Repos\Janus\Janus\Janus.cpp(296,60): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+E:\VS\VS Repos\Janus\Janus\Janus.cpp(378,33): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+E:\VS\VS Repos\Janus\Janus\Janus.cpp(655,48): warning C4244: '=': conversion from 'std::streamoff' to 'DWORD', possible loss of data
+  Janus.vcxproj -> E:\VS\VS Repos\Janus\x64\Debug\Janus.exe
